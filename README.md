@@ -76,5 +76,5 @@ EQUAL,somedomain
     * download the jar file of the plugin
     * put it in the subdirectory called `plugins` where the ja-netfilter.jar file is located
     * enjoy the new capabilities brought by the plugin
-    * if the file suffix is `.disabled.jar`, the plugin will be disabled
+  * if the file suffix is `.disabled.jar`, the plugin will be disabled
    
